@@ -1,0 +1,4 @@
+/* Minimal styling for Wiki.js Dashboard widget */
+.wikijsDashboardWidget a.wikijsDashboardLink {
+	font-weight: 700;
+}

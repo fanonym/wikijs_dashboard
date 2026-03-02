@@ -1,0 +1,17 @@
+{
+  "translations": {
+    "Wiki.js Dashboard": "Wiki.js Dashboard",
+    "Configure the Wiki.js API endpoint and display options for the Dashboard widget.": "Nastavte API endpoint Wiki.js a možnosti zobrazení pro widget na Dashboardu.",
+    "Wiki.js API URL": "URL API Wiki.js",
+    "API token": "API token",
+    "Show token": "Zobrazit token",
+    "Stored in Nextcloud app config.": "Uloženo v konfiguraci aplikace v Nextcloudu.",
+    "Public Wiki URL": "Veřejná URL Wiki",
+    "Locale": "Jazyk",
+    "Item limit": "Počet položek",
+    "Save": "Uložit",
+    "Saved": "Uloženo",
+    "Save failed": "Uložení se nezdařilo"
+  },
+  "pluralForm": "nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;"
+}

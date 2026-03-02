@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<info xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:noNamespaceSchemaLocation="https://apps.nextcloud.com/schema/apps/info.xsd">
+  <id>wikijs_dashboard</id>
+  <name>Wiki.js Dashboard</name>
+  <summary>Shows latest Wiki.js changes on the Nextcloud Dashboard</summary>
+  <description>Dashboard widget that pulls recent page updates from Wiki.js API.</description>
+
+  <version>2.0.48</version>
+  <namespace>WikiJsDashboard</namespace>
+  <bootstrap>OCA\WikiJsDashboard\AppInfo\Application</bootstrap>
+
+  <author>Your Team</author>
+  <licence>AGPL-3.0-or-later</licence>
+
+  <dependencies>
+    <nextcloud min-version="27" max-version="32" />
+  </dependencies>
+
+  <settings>
+    <admin>OCA\WikiJsDashboard\Settings\Admin</admin>
+  </settings>
+</info>
